@@ -1,0 +1,22 @@
+.product-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-section {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  width: 300px;
+  height: 400px;
+  background-color: lightgray;
+  padding: 10px;
+}
+
+.cart-icon {
+  display: flex;
+  justify-content: end;
+}

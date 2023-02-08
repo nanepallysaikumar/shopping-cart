@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    align-items: center;
+    background-color: grey;
+  }
+  
+  nav a {
+    padding: 24px;
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+    font-weight: bold;
+  }
+  

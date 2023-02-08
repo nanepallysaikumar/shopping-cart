@@ -1,0 +1,12 @@
+
+
+.cart {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid black;
+    padding: 20px;
+}
+
+.cart > div {
+    margin-right: 30px;
+}
